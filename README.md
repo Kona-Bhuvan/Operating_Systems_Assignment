@@ -35,14 +35,14 @@ Operating_Systems_Assignment/
 
 ## 🛠️ Project Deep Dives
 
-### [Assignment 1: Linux Character Device Driver](https://github.com/Kona-Bhuvan/Operating_Systems_Assignment/tree/main/KONA_B240214CS%20Assignment%201/KONA_B240214CS)
+### [Assignment 1: Linux Kernel Character Device Driver](https://github.com/Kona-Bhuvan/Operating_Systems_Assignment/tree/main/KONA_B240214CS%20Assignment%201/KONA_B240214CS)
 
 * **Domain:** Kernel-Space Programming, Device Drivers, Subsystem Interfacing
 * **Core Mechanics:** Developed a custom character device driver with robust memory isolation. Implemented strict synchronization requirements enforcing a read-before-write ordering logic.
 * **Key Features:** Kernel version validation handling via bitwise operations, asynchronous timer-constrained task schedules, and explicit file handling (`open`, `read`, `write`, `release`).
 * **Documentation:** Refer to the local [README.pdf](https://github.com/Kona-Bhuvan/Operating_Systems_Assignment/blob/main/KONA_B240214CS%20Assignment%201/KONA_B240214CS/README.pdf) for kernel loading (`insmod`) configurations and the structural [REPORT.pdf](https://github.com/Kona-Bhuvan/Operating_Systems_Assignment/blob/main/KONA_B240214CS%20Assignment%201/KONA_B240214CS/REPORT.pdf).
 
-### [Assignment 2: Multithreaded Parallel Processing](https://github.com/Kona-Bhuvan/Operating_Systems_Assignment/tree/main/KONA_B240214CS%20Assignment%202/KONA_B240214CS)
+### [Assignment 2: Parallel Perfect Number Verifier](https://github.com/Kona-Bhuvan/Operating_Systems_Assignment/tree/main/KONA_B240214CS%20Assignment%202/KONA_B240214CS)
 
 * **Domain:** User-Space Concurrency, Parallel Computing, Synchronization
 * **Core Mechanics:** Built a high-performance mathematical verification application that leverages parallel processing across multiple worker threads.
